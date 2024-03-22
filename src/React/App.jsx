@@ -22,7 +22,7 @@ const Inicio = () => {
                                     <strong>Para Areli</strong><br /><br />
                                     <p>
                                     Ya te dieron Flores Hoy? <br />
-                                    Espero no te maande una como estas, A mi estilo 
+                                    Espero no te mande una como estas, A mi estilo 
                                     Espero que te gusten.
                                     
                                     </p>
