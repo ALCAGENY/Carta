@@ -19,19 +19,21 @@ const Inicio = () => {
                         <div className="envelope">
                             <div className="letter">
                                 <div className="text">
-                                    <strong>Para Areli</strong><br /><br />
+                                    <strong>Para Johana Yuridia</strong><br /><br />
                                     <p>
-                                    Ya te dieron Flores Hoy? <br />
-                                    Espero no te mande una como estas, A mi estilo 
-                                    Espero que te gusten.
+                                    Hola mi Yuri linda 😍<br />
+                                    te dije que te mostraria un proyecto que tenia,
+                                    te hice unas flores para ti, tqm 😘😘
                                     
                                     </p>
                                     <br />
                                 </div>
                             </div>
                         </div>
-                        <p className='PPP'>Click Al Corazón De Enmedio</p>
-                        <p className='PPP'>Click Despues De Leer <button className='Botoooon' onClick={handleGoToFloresPage}>Aquí</button></p>
+                       <div className='centro'>
+                       <p className='PPP'> <button className='Botoooon' onClick={handleGoToFloresPage}>FLORES</button></p>
+                       </div>
+                       
                         <div className="heart"></div>
                     </div>
                 </div>

@@ -14,13 +14,18 @@
   font-family:'Courier New', Courier, monospace;
 }
 
+.centro{
+  text-align: center;
+}
+
 .Botoooon{
-  padding: 2% 3%;
+  padding: 2% 2%;
   background-color: rgb(252, 8, 231);
-  color: white;
+  color: black;
   border-radius: 20px;
   font-size: small;
   font-family:'Courier New', Courier, monospace;
+  border: none;
   
 }
 body{
