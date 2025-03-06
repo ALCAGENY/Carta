@@ -23,7 +23,7 @@ const Inicio = () => {
                                     <p>
                                     Hola mi Yuri linda 😍<br />
                                     te dije que te mostraria un proyecto que tenia,
-                                    te hice unas flores para ti, tqm 😘😘
+                                    te hice unas flores para ti, tqm 😘😘  unos besos o que??
                                     
                                     </p>
                                     <br />
