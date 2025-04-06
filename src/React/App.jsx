@@ -19,14 +19,7 @@ const Inicio = () => {
                         <div className="envelope">
                             <div className="letter">
                                 <div className="text">
-                                    <strong>Para Johana Yuridia</strong><br /><br />
-                                    <p>
-                                    Hola mi Yuri linda 😍<br />
-                                    te dije que te mostraria un proyecto que tenia,
-                                    te hice unas flores para ti, tqm 😘😘  unos besos o que??
-                                    
-                                    </p>
-                                    <br />
+hola
                                 </div>
                             </div>
                         </div>
